@@ -1,0 +1,24 @@
+  <header class="site-header" role="banner">
+
+<div class="container">
+
+  <div class="row navigation">
+    <div class="col-md-12">
+      <a class="site-title" href="/">Kathleen Ma</a>
+
+    <div class="site-nav">
+      <ul>
+          {% for page in site.pages %} {% if page.title %}
+          <ul><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></ul>
+          {% endif %} {% endfor %}
+
+          <ul><a href="/assets/resume.pdf">Resume</a></ul>
+
+      </ul>
+    </div>
+
+    </div>
+  </div>
+</div>
+
+</header>

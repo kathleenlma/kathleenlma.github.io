@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+	<div class="row">
+	    <div class="intro">
+			<h3>Third-year Princeton student, likes policy, cities, design and art.</h3>
+		</div>
+	</div>
+
+  <div class="row">
+
+
+{% for project in site.projects %}
+    
+<div class="col-md-4">
+
+    	<div class="thumbnail-image">
+    		<a href="{{ project.url }}">
+        		<img src="{{ project.thumbnail_path }}" alt="{{ project.title }}"/>
+        	</a>
+        </div>
+
+        <div class="thumbnail-title">
+	        <a href="{{ project.url }}">{{ project.title }}</a>
+        </div>
+
+
+        <div class="thumbnail-info">
+            <p>{{ project.info }}</p>
+        </div>
+   </div>
+ 
+{% endfor %}
+  </div>

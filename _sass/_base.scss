@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+body {
+  font-family: "Karla";
+  background-color: #e0e0e0;
+}
+
+.site-nav {
+	display: inline;
+
+}
+
+/*Inline display affects nav bar*/
+
+li, ul {
+	list-style-type: none; 
+	margin-left: 30px;
+	display: inline;
+
+}
+
+
+/*But now you actually change lists to list style*/
+
+li {
+	display: list-item;
+}
+
+
+.navigation {
+	margin-bottom: 3px;
+}
+
+/*Intro at top of homepage*/
+
+.intro {
+	font-size: 20px;
+	margin: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.wrapper {
+	margin-top: 40px;
+}
+
+/*Thumbnails*/
+
+.thumbnail-image {
+	overflow: hidden;
+	max-height: 300px;
+	max-width: 600px;
+	margin-top: 30px;
+}
+
+.thumbnail-title {
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.thumbnail-info {
+	color: #c1c1c1;
+}
+
+
+/*This is for the rows of the homepage*/
+
+.row {
+	margin-top: 15px;
+}
+
+
+
+

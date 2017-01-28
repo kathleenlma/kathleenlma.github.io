@@ -1,0 +1,20 @@
+title: Kathleen Ma
+email: your-email@domain.com
+baseurl: ""
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sillygoober
+github_username: kathleenlma
+kramdown:
+  input: GFM
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: _sass
+include: ['_pages']
+collections:
+  projects: 
+    output: true
+    permalink: /projects/:path/

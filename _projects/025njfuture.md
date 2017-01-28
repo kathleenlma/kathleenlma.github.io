@@ -1,0 +1,29 @@
+---
+layout: page
+title: "Assessing Measures of Gentrification in Tract-Level New Jersey"
+thumbnail_path: /img/tb/njfuture.png
+info: "research, map design" 
+---
+
+
+As an intern for the smart-growth organization New Jersey Future, I was tasked with comparing and analyzing two methods of measuring gentrification, which rely on different definitions of economic distress. I conducted research, literature review, data analysis, and map design with ArcGIS. 
+
+
+![NJ Future](/img/njfuture/qcturb.png)
+*<center>Economic distress in 2003 and 2015, North New Jersey urban areas</center>*
+
+
+The New Jersey Housing and Mortgage Finance Agency (NJHMFA) is responsible for the administration and monitoring of the Low Income Housing Tax Credit (LIHTC) program in New Jersey. The LIHTC program awards tax incentives to developers in order to increase the availability of affordable housing in NJ. 
+
+The Qualified Allocation Plan (QAP) is the NJHMFA’s methodology for awarding points to its developer applicants, in order to prioritize the developers and determine winners. Since 2013, the changes in the QAP were made to stop reinforcing high concentrations of poverty and steer low-income units to higher-opportunity areas, rather than economically distressed areas.
+
+However, due to the increase in economic activity that cities such as Jersey City and Hoboken have seen in recent years, many of these areas are no longer distressed. Thus, a new question arises: is there a point beyond which the NJHMFA should stop steering low-income units away from previously-distressed areas that are now rebounding, or gentrifying? What metrics do we have to identify and measure gentrification? How should the LIHTC program account for gentrification?
+
+Full report available on request.
+
+Advisor: [Tim Evans (NJ Future)](http://www.njfuture.org/about-njf/staff-contact/#tim)
+
+
+
+
+
