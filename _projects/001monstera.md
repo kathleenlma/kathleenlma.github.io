@@ -2,7 +2,7 @@
 layout: page
 title: "Monstera Tenuis"
 thumbnail_path: /img/tb/monstera.png
-info: "visual,"
+info: "visual, interactive, storytelling"
 ---
 
 ![Monstera](/img/monstera/monstear.jpg)

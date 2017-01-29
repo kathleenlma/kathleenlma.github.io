@@ -6,7 +6,7 @@ info: "research, map design"
 ---
 
 
-As an intern for the smart-growth organization New Jersey Future, I was tasked with comparing and analyzing two methods of measuring gentrification, which rely on different definitions of economic distress. I conducted research, literature review, data analysis, and map design with ArcGIS. 
+As an intern for the smart-growth organization New Jersey Future, I was tasked with comparing and analyzing two methods of measuring gentrification, which rely on different definitions of economic distress. I conducted research, literature review, and data analysis, as well as map design in ArcGIS. 
 
 
 ![NJ Future](/img/njfuture/qcturb.png)
