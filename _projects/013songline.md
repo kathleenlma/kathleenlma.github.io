@@ -5,14 +5,14 @@ thumbnail_path: /img/tb/songline.jpg
 info: "print, photography" 
 ---
 
-Songline Slam Poetry is Princeton's newest spoken word poetry group. As a member of Songline Slam Poetry, I've done publicity photography and design for the past few shows. 
+Songline Slam Poetry is Princeton's smallest and newest spoken word poetry group. I was tasked with the publicity photography and print designs for the past few shows. 
 
 #### **Fall 2015: Lost & Found**
 
 
-![Songline](/img/songline/lostcover.jpg)
+![Songline](/img/songline/lostcover.png)
 
-![Songline](/img/songline/lostposter.jpg)
+![Songline](/img/songline/lostposter.png)
 
 ![Songline](/img/songline/lost.png)
 

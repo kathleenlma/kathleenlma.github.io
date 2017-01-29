@@ -18,4 +18,4 @@ I made concept sketches for the visuals of the interactive story. The challenge 
 ![Monstera](/img/monstera/scene2.jpg)
 
 
-This project was in collaboration with [Aatish Bhatia (WIRED, Princeton)](http://www.aatishb.com/), [Robert Krulwich (NPR)](http://www.radiolab.org/people/robert-krulwich/), [Sarah Wang](http://sarahywang.tumblr.com/) and [Jonathan Zong](jonathanzong.com). 
+This project was in collaboration with [Aatish Bhatia (WIRED, Princeton)](http://www.aatishb.com/), [Robert Krulwich (NPR)](http://www.radiolab.org/people/robert-krulwich/), [Sarah Wang](http://sarahywang.tumblr.com/) and [Jonathan Zong](http://jonathanzong.com). 

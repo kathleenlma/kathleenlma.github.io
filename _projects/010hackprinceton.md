@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HackPrinceton 2016"
-thumbnail_path: /img/tb/hps16.png
+thumbnail_path: /img/tb/hp.jpg
 info: "branding, web design"
 ---
 

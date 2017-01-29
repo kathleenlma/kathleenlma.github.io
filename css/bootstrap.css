@@ -1587,24 +1587,29 @@ pre code {
 
 /* URPADDING */
 .container {
-  padding-right: 170px;
-  padding-left: 170px;
   margin-right: auto;
   margin-left: auto;
 }
 @media (min-width: 768px) {
   .container {
+
     width: 750px;
   }
 }
 @media (min-width: 992px) {
   .container {
     width: 970px;
+    padding-left: 140px;
+    padding-right: 140px;
+
   }
 }
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
+    padding-left: 170px;
+    padding-right: 170px;
+
   }
 }
 .container-fluid {
@@ -4018,7 +4023,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #e5e5e5;
 }
 .nav > li > a > img {
-  max-width: none;
+  max-width: 100%;
 }
 .nav-tabs {
   border-bottom: 1px solid #ddd;
