@@ -14,7 +14,8 @@ permalink: /blog/
 -->
 
 
-
+Coming soon!
+<!--
 
 <ul class="posts">
 
@@ -25,3 +26,4 @@ permalink: /blog/
 	    	<span>{{ post.date | date_to_string }}</span> 
 	  {% endfor %}
 </ul>
+-->
