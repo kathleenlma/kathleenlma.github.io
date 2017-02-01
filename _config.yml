@@ -18,4 +18,3 @@ collections:
   projects: 
     output: true
     permalink: /projects/:path/
-    permalink: /blog/:year/:month/:day/:title
