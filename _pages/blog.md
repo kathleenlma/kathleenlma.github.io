@@ -14,16 +14,14 @@ permalink: /blog/
 -->
 
 
-Coming soon!
-<!--
 
 <ul class="posts">
 
 	  {% for post in site.posts %}
 
-	    	<h1><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+	    	<div class="newh1"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
 
-	    	<span>{{ post.date | date_to_string }}</span> 
+	    	<div class="thumbnail-info">{{ post.date | date_to_string }}</div> 
+
 	  {% endfor %}
 </ul>
--->

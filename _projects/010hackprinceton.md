@@ -16,9 +16,9 @@ I designed the website, branding materials and style guidelines for HackPrinceto
 
 ![HP](/img/hp/style-planets.png)
 
-The style choices emphasize boldness, playfulness and exploration. The primary color palette draws inspiration from the CMYK color model, and allows for a range of uses. 
+The style choices emphasize boldness, playfulness and exploration. The primary color palette draws inspiration from the CMYK color model, and allows for a wide range of uses. 
 
-We used primarily rounded objects, which embody the hackathon's friendly nature. The style guide also invites further possibilities for interesting uses of white space and space objects (rockets?! spaceships?! astronauts lost in space?!)
+We used mostly rounded objects, which embody the hackathon's friendly nature. The style guide also invites further possibilities for interesting uses of white space and space objects (rockets?! spaceships?! astronauts lost in space?!)
 
 
 
