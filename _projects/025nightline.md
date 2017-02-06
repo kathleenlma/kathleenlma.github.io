@@ -5,7 +5,7 @@ thumbnail_path: /img/tb/nightline.png
 info: "identity, print" 
 ---
 
-I was tasked with the identity and print design of Princeton Peer Nightline, a phone line where students can call from 9 pm - 2 am and talk with trained student volunteers. This new program is part of the Princeton's Mental Health Initiative. Mental health resources on campus have been very good to me, so I was excited to contribute to this new initiative.
+I was tasked with the identity and print design of Princeton Peer Nightline, a phone line where students can call from 9 pm - 2 am and talk with trained student volunteers. Mental health resources on campus have been very good to me, so I was excited to contribute to this new initiative.
 
 A list of descriptors served as a launching point for my explorations: Supportive, Accessible, Welcoming and After Hours. 
 
