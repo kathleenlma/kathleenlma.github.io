@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Mug](/img/mug3.png)
 
-Kathleen Ma is a junior at Princeton University studying policy, urban studies and visual arts. She is interested in designing inclusive and accessible systems and products.
+Kathleen Ma is a junior studying policy, urban studies and visual arts at Princeton University. She is interested in designing inclusive systems and products.
 
 
 
