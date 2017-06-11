@@ -1,13 +1,14 @@
 title: Kathleen Ma
-email: your-email@domain.com
+email: klma@princeton.edu
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sillygoober
+twitter_username: kathleenmachine
 github_username: kathleenlma
 kramdown:
   input: GFM
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
