@@ -29,7 +29,7 @@ View the final project [here](arc492.github.io).
 
 _**UNTITLED [in progress]:**_ The Lewis Center awarded [Helen Lin](facebook.com/helenlinart) and me the _Berl Senior Thesis Fund_ to travel to Tokyo and Seoul, for our Visual Arts senior thesis research. I was interested in exploring machines that convert fantasies into realities and how gender is spatialized in entertainment spaces. 
 
-![Tokyo](/img/blog/machines.png)
+![Tokyo](/img/blog/machines1.png)
 
 Even though I'm disatisfied with a lot of the work I'm making now (and I'm slow with producing new things), it's encouraging to see things I made, and to remind myself that I have range! and potential for growth! 🚀🚀 I hope to do these project roundups more frequently and to write real blog posts (with more emojis.)
 
