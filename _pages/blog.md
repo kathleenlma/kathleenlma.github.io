@@ -14,5 +14,4 @@ permalink: /blog/
 
 	    	<p><a href="{{ post.url }}">Read more</a></p>		
 	    {% endfor %}
-
 </ul>
