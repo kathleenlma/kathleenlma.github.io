@@ -13,6 +13,5 @@ permalink: /blog/
 	    	<p class="description">{{ post.content | truncatewords: 100 }}</p>
 
 	    	<p><a href="{{ post.url }}">Read more</a></p>		
-	    
 	{% endfor %}
 </ul>
