@@ -27,7 +27,7 @@ View the final project [here](arc492.github.io).
 
 ![MOCA](/img/blog/moca.png)
 
-_**UNTITLED [in progress]:**_ The Lewis Center awarded [Helen Lin](facebook.com/helenlinart) and me the _Berl Senior Thesis Fund_ to travel to Tokyo and Seoul, for our Visual Arts senior thesis research. I was interested in exploring machines that convert fantasies into realities and how gender is spatialized in entertainment spaces. 
+_**UNTITLED [in progress]:**_ The Lewis Center awarded [Helen Lin](facebook.com/helenlinart) and me the Berl Senior Thesis Fund_to travel to Tokyo and Seoul, for our Visual Arts senior thesis research. I was interested in exploring machines that convert fantasies into realities and how gender is spatialized in entertainment spaces. 
 
 ![Tokyo](/img/blog/machines1.png)
 
