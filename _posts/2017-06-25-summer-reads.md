@@ -6,7 +6,6 @@ categories:
 ---
 
 Things I’m trying to read this summer: 
-
 * **Books:** 
 * The New Jim Crow: Mass Incarceration in the Age of Colorblindness, Michelle Alexander
 * Invisible Cities, Italo Calvino
@@ -27,7 +26,6 @@ Things I've read so far this summer:
 * The Fire This Time: A New Generation Speaks About Race
 * Americanah, Chimamanda Ngozi Adichie
 * Half of a Yellow Sun, Chimamanda Ngozi Adichie
-* Purple Hibiscus, Chimamanda Ngozi Adichie
 * Purple Hibiscus, Chimamanda Ngozi Adichie
 * To All The Boys I've Loved Before, Jenny Han 
 
