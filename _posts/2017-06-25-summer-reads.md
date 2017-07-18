@@ -6,7 +6,6 @@ categories:
 ---
 
 * GOING TO READ: 
-
 * **Books:** 
 * The New Jim Crow: Mass Incarceration in the Age of Colorblindness, Michelle Alexander
 * Invisible Cities, Italo Calvino
@@ -23,7 +22,6 @@ categories:
 * MIT's [Environmental Justice Syllabus](https://ocw.mit.edu/courses/urban-studies-and-planning/11-368-environmental-justice-fall-2004/readings/) 
 
 * READ:
-
 * Speculative Everything, Anthony Dunne and Fiona Raby
 * The Fire This Time: A New Generation Speaks About Race
 * Americanah, Chimamanda Ngozi Adichie
