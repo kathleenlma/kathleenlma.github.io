@@ -2,7 +2,7 @@
 layout: page
 title: "Assessing Measures of Gentrification in Tract-Level New Jersey"
 thumbnail_path: /img/tb/njfuture.jpg
-info: "research, map design" 
+info: "research, mapping" 
 ---
 
 

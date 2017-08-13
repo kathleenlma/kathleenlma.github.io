@@ -17,8 +17,8 @@ body {
 	font-size: 36px;
 	display: block;
 
-
 }
+
 
 /*Inline display affects nav bar*/
 
@@ -49,6 +49,7 @@ li {
 	margin: 40px;
 	margin-top: 40px;
 	margin-bottom: 40px;
+	line-height: 1.4;
 }
 
 .wrapper {
@@ -64,6 +65,14 @@ li {
 	max-width: 600px; not sure why you wanted to do this but ok */
 	min-height: 200px;
 	margin-top: 30px;
+}
+
+.thumbnail-image:hover {
+	opacity: 0.7;
+	filter: alpha(opacity=30);
+
+	/*background: #7889a3; Little bottom bars*/
+	/*min-height: 50px; I don't think this does anything lol*/
 }
 
 .thumbnail-title {
