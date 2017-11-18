@@ -37,6 +37,8 @@ We used mostly rounded objects, which embody the hackathon's friendly nature. Th
 
 #### **Fall 2016**
 
+
+
 Print design, including initial publicity (i.e. hype) posters and informational posters for participants, volunteers, mentors and hosts of HackPrinceton.
 
 ![HP](/img/hp/vague.png)

@@ -2,7 +2,7 @@
 layout: page
 title: "R O O M"
 thumbnail_path: /img/tb/room.jpg
-info: "interactive, storytelling, illustration"
+info: "interactive, storytelling"
 ---
 
 R O O M is an interative illustration that maps change in a college student's room over the course of four seasons. I contributed to storyboarding, art direction and the final illustrations. The project can be viewed [here](http://jonathanzong.github.io/room/). 

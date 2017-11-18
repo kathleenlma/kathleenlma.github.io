@@ -2,7 +2,7 @@
 layout: page
 title: "The Tigertones"
 thumbnail_path: /img/tb/tt2.jpg
-info: "visual design" 
+info: "graphic design" 
 ---
 
 Album cover artwork for The Tigertones, one of Princeton's oldest a capella groups. The album artwork is a homage to the Tigertones' rich history and timeless tunes. I chose not to display any of the member's faces in the photographs, so that it could be Tigertones from any time, in any place, going forward together. 
