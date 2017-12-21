@@ -26,6 +26,7 @@ layout: default
 
 </script>
 
+{% cycle '<div class="row">', '', ''%}
 <div class="col-md-4">
 
     	<div class="thumbnail-image">
@@ -42,6 +43,7 @@ layout: default
             <p>{{ project.info }}</p>
       </div>
 </div>
+{% cycle '', '', '</div>'%}
  
 {% endfor %}
   </div>
