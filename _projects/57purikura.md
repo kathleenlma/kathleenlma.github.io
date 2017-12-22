@@ -11,19 +11,6 @@ When you enter a purikura center, you are confronted with the faces of the women
 
 You retrieve this small reality. It is exactly what you wanted.
 
-![Photos](/img/purikura/1.jpg)
-
-![Photos](/img/purikura/5.jpg)
-
-![Photos](/img/purikura/7.png)
-
-![Photos](/img/purikura/2.jpg)
-
-![Photos](/img/purikura/3.jpg)
-![Photos](/img/purikura/strips.png)
-![Photos](/img/purikura/6.jpg)
-
-![Photos](/img/purikura/4.jpg)
 
 
 
