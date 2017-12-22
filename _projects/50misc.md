@@ -5,7 +5,7 @@ thumbnail_path: /img/tb/fine.jpg
 info: "graphic design"
 ---
 
-Miscellaneous print design projects.  
+Miscellaneous graphic design projects.  
 
 ![Tigertones](/img/misc/eclub.png)
 

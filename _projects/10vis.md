@@ -15,7 +15,7 @@ You can view the website at [vis.princeton.edu](http://vis.princeton.edu)
 
 ![vis](/img/vis/artists2.png)
 
-Artists can customize their individual pages to reflect their own work, influences and style. We wanted the pages to be flexible, with enough constraints to make choices easy. Students use their pages as artists profiles, spaces for new work, and thought-dumping-grounds.
+Artists can customize their individual pages to reflect their own work, influences and style. We wanted the pages to be flexible, with enough constraints to make choices easy. Students use their pages as artists profiles, spaces for new work, and idea dumping grounds.
 
 ![vis](/img/vis/home.png)
 
