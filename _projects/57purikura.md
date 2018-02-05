@@ -13,7 +13,7 @@ You retrieve this small reality. It is exactly what you wanted.
 
 
 ![Purikura](/img/purikura/1.jpg)
-![Purikura](/img/purikura/2.jpg)
+![Purikura](/img/purikura/FH010004.jpg)
 ![Purikura](/img/purikura/3.jpg)
 ![Purikura](/img/purikura/4.jpg)
 ![Purikura](/img/purikura/5.jpg)
