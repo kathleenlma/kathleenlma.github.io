@@ -17,6 +17,8 @@ You retrieve this small reality. It is exactly what you wanted.
 
 ![Purikura](/img/purikura/FH010004.jpg)
 
+![Purikura](/img/purikura/6.jpg)
+
 ![Purikura](/img/purikura/7.png)
 
 ![Purikura](/img/purikura/FH010007.jpg)
@@ -25,7 +27,6 @@ You retrieve this small reality. It is exactly what you wanted.
 
 ![Purikura](/img/purikura/5.jpg)
 
-![Purikura](/img/purikura/6.jpg)
 
 
 
