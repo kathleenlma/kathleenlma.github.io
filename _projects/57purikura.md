@@ -12,10 +12,10 @@ When you enter a purikura center, you are confronted with the faces of the women
 You retrieve this small reality. It is exactly what you wanted.
 
 
-![Purikura](/img/purikura/1.jpg)
+![Purikura](/img/purikura/FH000015.JPG)
+![Purikura](/img/purikura/FH000032.jpg)
 ![Purikura](/img/purikura/FH010004.jpg)
-![Purikura](/img/purikura/3.jpg)
-![Purikura](/img/purikura/4.jpg)
+![Purikura](/img/purikura/FH010007.jpg)
 ![Purikura](/img/purikura/5.jpg)
 ![Purikura](/img/purikura/6.jpg)
 ![Purikura](/img/purikura/7.png)
