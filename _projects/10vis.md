@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "vis"
+title: "VIS"
 thumbnail_path: /img/tb/vis2.png
-info: "web design, identity"
+info: "webside for the Princeton Visual Arts Program"
 ---
 
 
@@ -21,3 +21,4 @@ Artists can customize their individual pages to reflect their own work, influenc
 
 ![vis](/img/vis/info.png)
 
+Featured on [Brutalist Websites](http://brutalistwebsites.com/vis.princeton.edu/).

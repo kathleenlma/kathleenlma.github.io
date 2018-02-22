@@ -2,7 +2,7 @@
 layout: page
 title: "print club!"
 thumbnail_path: /img/tb/purikura.jpg
-info: "photography"
+info: "photo series exploring the relationship between face, body, machine and image"
 ---
 
 **(print club!) explores the relationship between image, machine, face and body.**

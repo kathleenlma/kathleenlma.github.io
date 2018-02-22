@@ -2,7 +2,7 @@
 layout: page
 title: "Photography Showcase"
 thumbnail_path: /img/tb/photo.jpg
-info: "photo"
+info: "commercial photography"
 ---
 
 

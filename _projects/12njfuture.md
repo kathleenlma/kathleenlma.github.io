@@ -2,7 +2,7 @@
 layout: page
 title: "New Jersey Future"
 thumbnail_path: /img/tb/njfuture.jpg
-info: "research, mapping" 
+info: "research and mapping on a NJ affordable housing program" 
 ---
 
 **<center>Economic distress in 2003 and 2015, North New Jersey urban areas</center>**
@@ -26,11 +26,10 @@ info: "research, mapping"
 
 		<p>The Qualified Allocation Plan (QAP) is the NJHMFA’s methodology for awarding points to its developer applicants, in order to prioritize the developers and determine winners. Since 2013, the changes in the QAP were made to stop reinforcing high concentrations of poverty and steer low-income units to higher-opportunity areas, rather than economically distressed areas.</p>
 
-		<p>However, due to the increase in economic activity that cities such as Jersey City and Hoboken have seen in recent years, many of these areas are no longer distressed. Thus, a new question arises: is there a point beyond which the NJHMFA should stop steering low-income units away from previously-distressed areas that are now rebounding, or "gentrifying"? What metrics do we have to identify and measure gentrification? How should the LIHTC program account for gentrification?</p>
+		<p>However, due to the increase in economic activity that cities such as Jersey City and Hoboken have seen in recent years, many of these areas are no longer distressed. Thus, a new question arises: is there a point beyond which the NJHMFA should stop steering low-income units away from previously-distressed areas that are now rebounding? What metrics do we have to identify and measure this process? How should the LIHTC program account for these changes?</p>
 
 		<p>Full report available on request.</p>
 
-		Advisor: [Tim Evans (NJ Future)](http://www.njfuture.org/about-njf/staff-contact/#tim)
 	</div>
 </div>
 
