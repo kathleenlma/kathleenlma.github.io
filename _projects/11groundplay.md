@@ -17,7 +17,10 @@ info: "interactive process guide for a public space program"
 		<p>Although Groundplay advocates for a community-lead process, asymmetric information and complex planning processes can make this difficult. I designed this resource guide to lower barriers to community participation, and help the public navigate top-down, government planning projects more effectively.</p>
 
 		<p>This resource guide included links to permitting applications, information on ADA requirements, examples of stewardship models, and examples of projects. I wanted to make a guide that was simple enough to provide a high-level overview of the process, but provide more in-depth information through links to internal and external resources.
-		</p></div>
+		</p>
+
+		<p>Illustrations adopted and modified from Chris Cerrato's Groundplay illustrations.</p>
+	</div>
 </div>
 
 
