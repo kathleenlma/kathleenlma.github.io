@@ -15,6 +15,8 @@ permalink: /about/
 
 		<p>She has worked at <a href="njfuture.org">New Jersey Future</a>, <a href="sf-planning.org">San Francisco Planning Department</a> and <a href="groundplaysf.org">Groundplay</a>.</p>
 
+		<p>Currently at <a href="partnerandpartners.com">Partner & Partners</a>.</p>
+
 		<p><a href="/assets/resume.pdf">Resume</a></p>
 
 
