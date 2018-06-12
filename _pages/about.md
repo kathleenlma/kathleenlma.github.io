@@ -13,9 +13,9 @@ permalink: /about/
 	
 		<p>Kathleen Ma is an student, artist and designer. She studies public policy, urban studies and visual arts at Princeton University. </p>
 
-		<p>She has worked at <a href="njfuture.org">New Jersey Future</a>, <a href="sf-planning.org">San Francisco Planning Department</a> and <a href="groundplaysf.org">Groundplay</a>.</p>
+		<p>She has worked at <a href="njfuture.org">New Jersey Future</a>, <a href="sf-planning.org">San Francisco Planning Department</a> and <a href="groundplaysf.org">Groundplay</a>. She currently works at <a href="https://partnerandpartners.com">Partner & Partners</a>.</p>
 
-		<p>Currently at <a href="partnerandpartners.com">Partner & Partners</a>.</p>
+
 
 		<p><a href="/assets/resume.pdf">Resume</a></p>
 
