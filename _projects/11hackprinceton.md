@@ -22,9 +22,6 @@ We used mostly rounded objects, which embody the hackathon's friendly nature. Th
 
 
 
-
-![HP](/img/hp/web.png)
-
 ![HP](/img/hp/shirt.png)
 
 ![HP](/img/hp/poster.png)
