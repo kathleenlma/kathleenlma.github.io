@@ -12,7 +12,7 @@ info: "interactive process guide for a public space program"
 	<div class="col-md-4">
 	</div>
 	<div class="col-md-8">
-		<p>As an intern for the San Francisco Planning Department, I made a process guide for the tactical urbanism program Groundplay. Groundplay works with San Franciscans to build temporary installations that turn underused public spaces into joyful community places.</p>
+		<p>As an intern for the San Francisco Planning Department, I made a process guide for the public space program Groundplay. Groundplay works with San Franciscans to build temporary installations that turn underused public spaces into joyful community places.</p>
 
 		<p>Although Groundplay advocates for a community-lead process, asymmetric information and complex planning processes can make this difficult. I designed this resource guide to lower barriers to community participation, and help the public navigate top-down, government planning projects more effectively.</p>
 
