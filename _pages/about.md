@@ -12,7 +12,7 @@ permalink: /about/
 	<div class="col-md-6">
 		<p>Kathleen Ma is a NYC-based artist and designer. She studied public policy, urban studies and visual arts at Princeton University. </p>
 
-		<p>now:
+		<p>now:</p>
 		<ul>2018-2019 <a href="https://facebook.com/NYCUrbanFellows/">NYC Urban Fellow</a></ul>
 		<ul><a href="https://printjob.press">printjob press</a></ul>
 
