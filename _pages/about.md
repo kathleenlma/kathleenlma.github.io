@@ -11,7 +11,7 @@ permalink: /about/
 	</div>
 	<div class="col-md-6">
 		<ul>
-			<ku>Kathleen Ma is a NYC-based artist and designer. She studied public policy, urban studies and visual arts at Princeton University. </li>
+			<li>Kathleen Ma is a NYC-based artist and designer. She studied public policy, urban studies and visual arts at Princeton University. </li>
 		</ul>
 		<ul>
 			<li>now:</li>
