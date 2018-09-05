@@ -21,9 +21,9 @@ permalink: /about/
 		<ul>
 			<li>past:</li>
 			<li><a href="https://partnerandpartners.com">Partner & Partners</a></li>
-			<li><a href="sf-planning.org">San Francisco Planning Department</a></li>
-			<li><a href="groundplaysf.org">Groundplay</a></li>
-			<li><a href="njfuture.org">New Jersey Future</a></li>
+			<li><a href="https://sf-planning.org">San Francisco Planning Department</a></li>
+			<li><a href="https://groundplaysf.org">Groundplay</a></li>
+			<li><a href="https://njfuture.org">New Jersey Future</a></li>
 		</ul>
  	</div>
 </div>
