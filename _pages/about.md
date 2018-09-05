@@ -14,7 +14,7 @@ permalink: /about/
 
 		<ul>
 			<li>now:</li>
-			<li>2018-2019 <a href="https://facebook.com/NYCUrbanFellows/">NYC Urban Fellow</a></li>
+			<li><a href="https://facebook.com/NYCUrbanFellows/">2018-2019 NYC Urban Fellow</a></li>
 			<li><a href="https://printjob.press">printjob press</a></li>
 		</ul>
 
