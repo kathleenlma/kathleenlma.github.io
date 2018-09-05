@@ -18,11 +18,10 @@ permalink: /about/
 
 
 		<p>past:</p>
-		<p><a href="https://partnerandpartners.com">Partner & Partners</a></p>
-		<p><a href="sf-planning.org">San Francisco Planning Department</a></p>
-		<p><a href="groundplaysf.org">Groundplay</a></p>
-		<p><a href="njfuture.org">New Jersey Future</a></p>
-
+		<ul><a href="https://partnerandpartners.com">Partner & Partners</a></ul>
+		<ul><a href="sf-planning.org">San Francisco Planning Department</a></ul>
+		<ul><a href="groundplaysf.org">Groundplay</a></ul>
+		<ul><a href="njfuture.org">New Jersey Future</a></ul>
  	</div>
 </div>
 
