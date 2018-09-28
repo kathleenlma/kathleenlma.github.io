@@ -7,7 +7,7 @@ permalink: /about/
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/mug1.png">
+		<img src="/img/mug.png">
 	</div>
 	<div class="col-md-6">
 		<ul>
