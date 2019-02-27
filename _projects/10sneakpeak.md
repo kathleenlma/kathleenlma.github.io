@@ -15,6 +15,9 @@ alignment: "left"
 <br/>
 <br/>
 
+![](/img/sneakpeak/sketchup.jpeg)
+
+
 ![](/img/sneakpeak/soft.png)
 
 I learned how to print on the vandercook press with some Creative Time Wonder Foam Adhesive Foam. Pretty exciting!
