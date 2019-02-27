@@ -20,4 +20,7 @@ alignment: "left"
 
 ![](/img/sneakpeak/soft.png)
 
+![](/img/sneakpeak/exchange.png)
+
+
 
