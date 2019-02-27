@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<div class="newh1">{{ page.title }}</div>
 
-<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+<div class="subtext"><time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time></div>
+<br/>
 
 {{ content }}

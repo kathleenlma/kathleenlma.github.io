@@ -4,20 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<h2>
+Hi, I'm Kathleen. 
 
-<div class="row">
-	<div class="col-md-6">
-		<img src="/img/mug.png">
-	</div>
-	<div class="col-md-6">
-		<ul>
-			<li>Kathleen Ma is a NYC-based artist and designer.</li>
-		</ul>
- 	</div>
-</div>
-
-
-
+I work in waste management during the day. At night, I'm a 2019 Workplace Artist-in-Residence at the <a href="https://centerforbookarts.org/">Center for Book Arts</a>. I make art books and zines with my friends at <a href="http://printjob.press">printjob press</a>.</h2>
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "updates"
+title:  "Little updates"
 date:  2017-06-12 11:30
 categories: 
 ---

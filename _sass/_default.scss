@@ -14,9 +14,10 @@ dl, dd, ol, ul, figure {
  */
 body {
   margin-top: 40px; 
-  font: 400 16px/1.5 "Karla", Helvetica, Arial, sans-serif;
+  font: 400 20px/1.5 Times, Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #e0e0e0;
+  /*background-image: url("/assets/birth.png");*/
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -74,7 +75,9 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  
+  font-weight: 400;
+   }
 
 /**
  * Links
@@ -271,8 +274,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   margin-top: 40px; 
-  font: 400 16px/1.5 "Karla", Helvetica, Arial, sans-serif;
-  color: #111;
+  font: 400 20px/1.7 Times, Helvetica, Arial, sans-serif;
+  color: #4c4c4c;
   background-color: #e0e0e0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -331,7 +334,8 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: 400; 
+  }
 
 /**
  * Links
