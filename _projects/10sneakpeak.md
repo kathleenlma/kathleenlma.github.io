@@ -18,9 +18,6 @@ alignment: "left"
 ![](/img/sneakpeak/sketchup.jpeg)
 
 
-![](/img/sneakpeak/soft.png)
-
-![](/img/sneakpeak/exchange.png)
 
 
 
