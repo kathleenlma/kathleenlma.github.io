@@ -14,7 +14,7 @@ alignment: "left"
 <br/>
 <br/>
 <br/>
-
+![](/img/sneakpeak/Scan.jpeg)
 ![](/img/sneakpeak/sketchup.jpeg)
 
 
