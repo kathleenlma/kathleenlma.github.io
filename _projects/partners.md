@@ -15,18 +15,4 @@ alignment: "center"
 
  I worked on projects for North Brooklyn Neighbors, the Columbia Buell Center for Architecture, CUNY Graduate Center for Humanities, and the Catskills Visitors Center. 
 
-
-<!--
-<div class="wrapper">
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-    	<img src="/img/pp/buell.jpg">
-    </div>
-    <div class="col-sm-6">
-		<img src="/img/pp/housing.jpg">
-	</div>
-  </div>
-</div>
-</div>
--->
+ <br/>

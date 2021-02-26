@@ -13,11 +13,31 @@ alignment: "left"
 
 <br/>
 
-<div class="thumbnail-image" style="display: flex; justify-content: center;" >
-	 <img src="/img/sneakpeak/grasswave.gif">
+<div class="thumbnail-image" style="display: flex; justify-content: center;"> 
+	 <img src="/img/sneakpeak/3d-food.png">
 </div>
 
 <br/>
+
+<div class="thumbnail-image" style="display: flex; justify-content: center;" >
+	 <img src="/img/sneakpeak/3d-1.png">
+</div>
+
+<br/>
+
+
+<div class="thumbnail-image" style="display: flex; justify-content: center;"> 
+	 <img src="/img/sneakpeak/3d-4.png">
+</div>
+
+<br/>
+
+<div class="thumbnail-image" style="display: flex; justify-content: center;"> 
+	 <img src="/img/sneakpeak/3d-5.png">
+</div>
+
+<br/>
+
 
 
 
