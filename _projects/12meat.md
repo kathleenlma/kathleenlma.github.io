@@ -20,3 +20,8 @@ alignment: "left"
 
 <p>"如何成为渣女" or "how to be a scum girl."</p>
 
+<div class="thumbnail-image" style="display: flex; justify-content: center;" >
+	 <img src="/img/meat/glassbook.gif">
+</div>
+
+
