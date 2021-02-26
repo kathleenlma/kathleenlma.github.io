@@ -1613,7 +1613,11 @@ pre code {
     width: 1270px;
     padding-left: 50px;
     padding-right: 50px;
-
+  }
+  .wrapper {
+  margin-top: 40px;
+  padding-right: 120px;
+  padding-left: 120px;
   }
 }
 .container-fluid {
