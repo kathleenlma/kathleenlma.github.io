@@ -12,13 +12,12 @@ alignment: "left"
 
 
 <br/>
-<br/>
-<br/>
 
-![](/img/sneakpeak/grasswave.gif)
-![](/img/sneakpeak/Scan.jpeg)
-![](/img/sneakpeak/sketchup.jpeg)
+<div class="thumbnail-image" style="display: flex; justify-content: center;" >
+	 <img src="/img/sneakpeak/grasswave.gif">
+</div>
 
+<br/>
 
 
 
