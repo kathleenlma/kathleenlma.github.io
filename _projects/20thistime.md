@@ -11,5 +11,7 @@ alignment: "center"
 </div>
 
 <br>
+<i>single channel video, 10'02"</i>
+
 
 <p>“this time that i see you, is one last time i see you” draws from an archive of footage from my family’s in-home security camera in Jiangyan, China. The video piece collapses intergenerational, cultural, and physical distance through overlapping and intercutting video channels. It poses the possibility of a different narrative around surveillance and privacy: an “emotional security camera” for diaspora.</p>

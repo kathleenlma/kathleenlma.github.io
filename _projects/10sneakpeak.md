@@ -10,8 +10,7 @@ alignment: "left"
 	 <img src="/img/sneak.gif">
 </div>
 
-
-<br/>
+<i>ongoing experiments and sketches</i>
 
 <div class="thumbnail-image" style="display: flex; justify-content: center;"> 
 	 <img src="/img/sneakpeak/3d-food.png">
